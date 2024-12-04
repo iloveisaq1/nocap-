@@ -1,0 +1,6 @@
+print( 'ola mundo' ) 
+print ('neymar no barça 2015')
+print ('q sono')
+print ('trap the fato')
+print ('free youngboy')
+print ('young thug nas ruas')
